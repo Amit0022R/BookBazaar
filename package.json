@@ -1,0 +1,24 @@
+{
+  "name": "bookbazaar",
+  "version": "1.0.0",
+  "description": "Book Bazaar Inventory Management System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amit0022R/BookBazaar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Amit0022R/BookBazaar/issues"
+  },
+  "homepage": "https://github.com/Amit0022R/BookBazaar#readme",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
